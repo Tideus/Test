@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SymbolCounter", "SymbolCounter\SymbolCounter.csproj", "{EE569A5F-0FE1-4734-A850-7BE012241DB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest_SymbolCount", "UnitTest_SymbolCount\UnitTest_SymbolCount.csproj", "{4F622876-F3F6-4CB4-9816-BCBBE448CFCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE569A5F-0FE1-4734-A850-7BE012241DB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE569A5F-0FE1-4734-A850-7BE012241DB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE569A5F-0FE1-4734-A850-7BE012241DB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE569A5F-0FE1-4734-A850-7BE012241DB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F622876-F3F6-4CB4-9816-BCBBE448CFCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F622876-F3F6-4CB4-9816-BCBBE448CFCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F622876-F3F6-4CB4-9816-BCBBE448CFCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F622876-F3F6-4CB4-9816-BCBBE448CFCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F84C9DA-AAC2-4016-A8F8-A9D516D0210A}
+	EndGlobalSection
+EndGlobal

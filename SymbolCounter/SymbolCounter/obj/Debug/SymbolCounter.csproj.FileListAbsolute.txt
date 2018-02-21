@@ -1,0 +1,9 @@
+C:\Users\Михаил\source\repos\SymbolCounter\SymbolCounter\bin\Debug\SymbolCounter.exe.config
+C:\Users\Михаил\source\repos\SymbolCounter\SymbolCounter\bin\Debug\SymbolCounter.exe
+C:\Users\Михаил\source\repos\SymbolCounter\SymbolCounter\bin\Debug\SymbolCounter.pdb
+C:\Users\Михаил\source\repos\SymbolCounter\SymbolCounter\obj\Debug\SymbolCounter.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\repos\SymbolCounter\SymbolCounter\obj\Debug\SymbolCounter.exe
+C:\Users\Михаил\source\repos\SymbolCounter\SymbolCounter\obj\Debug\SymbolCounter.pdb
+C:\Users\Михаил\source\repos\SymbolCounter\SymbolCounter\obj\Debug\SymbolCounter.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\source\repos\SymbolCounter\SymbolCounter\obj\Debug\SymbolCounter.Properties.Resources.resources
+C:\Users\Михаил\source\repos\SymbolCounter\SymbolCounter\obj\Debug\SymbolCounter.csproj.GenerateResource.Cache
